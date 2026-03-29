@@ -122,6 +122,3 @@
 *   Официальная документация: [help.ubuntu.com](https://help.ubuntu.com)
 *   Русскоязычный форум: [forum.ubuntu.ru](https://forum.ubuntu.ru)
 
----
-
-*Данная инструкция актуальна для Ubuntu 25.10, а также для предыдущих версий 24.04 LTS и 24.10.*
